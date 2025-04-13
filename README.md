@@ -55,7 +55,7 @@ All tests are located under the `cypress/` directory.
 
 ## 🎥 Walkthrough Video
 
-🔗 [Click here to watch the walkthrough video](?????????)
+#### 🔗 [Click here to watch the walkthrough video](https://drive.google.com/file/d/1dUkzaikJwC_q5JRGS_w5AYfzKeU3g5kC/view?usp=sharing)
 
 The video demonstrates:
 - The component and E2E tests running and passing
